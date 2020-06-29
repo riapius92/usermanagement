@@ -1,0 +1,20 @@
+<div class="container">
+	<h3>Users</h3>
+	<button mat-button color="primary" (click)="addNewUser()">Add New</button>
+	
+	
+	<input type="search" placeholder="search" class="search"/>
+	<div *ngIf="!formdisplay"><li *ngFor="let user of users" class="list">
+		<div>Name : {{user.user.name.title}} {{user.user.name.first}} {{user.user.name.last}}</div>
+		<div>Gender : {{user.user.gender}}</div>
+		<div>Email : {{user.user.email}}</div>
+		<div>UserName : {{user.user.username}}</div>
+		<div>Password : {{user.user.password}}</div>
+		<div>Phone : {{user.user.phone}}</div>
+		<div>DOB : {{user.user.dob}}</div>
+	</li>
+  </div>
+  <div  *ngIf="formdisplay">
+  	<app-user ></app-user>
+  </div>
+</div>

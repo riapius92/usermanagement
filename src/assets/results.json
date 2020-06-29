@@ -1,0 +1,647 @@
+{
+    "results": [
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "joão",
+                    "last": "nascimento"
+                },
+                "location": {
+                    "street": "3327 rua espirito santo",
+                    "city": "bauru",
+                    "state": "paraná",
+                    "zip": 32352
+                },
+                "email": "joão.nascimento@example.com",
+                "username": "bigmeercat279",
+                "password": "casino",
+                "salt": "8wgetOs3",
+                "md5": "e587ebc36c45cb8d9b76c0ca041b7fe5",
+                "sha1": "aef2cc823402982d07edbbcac2e9cacbd56f438f",
+                "sha256": "25d5d6169ed6c91095482d0a6eee667c6e460474b5298bfc908a001b7b32c5a2",
+                "registered": 1387982402,
+                "dob": 381417304,
+                "phone": "(15) 3839-4789",
+                "cell": "(72) 0196-6800",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/7.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "salma",
+                    "last": "gonçalves"
+                },
+                "location": {
+                    "street": "2795 rua joão xxiii",
+                    "city": "itaboraí",
+                    "state": "santa catarina",
+                    "zip": 79082
+                },
+                "email": "salma.gonçalves@example.com",
+                "username": "ticklishostrich811",
+                "password": "darren",
+                "salt": "msIxDSnQ",
+                "md5": "89e271f049be29b9417c09462b725cb3",
+                "sha1": "6aa8026a20b915abdb05f3a1f7f8ff3a81f387ef",
+                "sha256": "991d68da5239d7e959ddcbf99024e322b9ee545e8b6f56b8e69f778110678dd2",
+                "registered": 1432305373,
+                "dob": 538164357,
+                "phone": "(95) 5071-6643",
+                "cell": "(62) 2807-2287",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/41.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "florentino",
+                    "last": "pires"
+                },
+                "location": {
+                    "street": "5493 rua vinte e dois",
+                    "city": "araguaína",
+                    "state": "rondônia",
+                    "zip": 40756
+                },
+                "email": "florentino.pires@example.com",
+                "username": "brownwolf598",
+                "password": "fletcher",
+                "salt": "iKHq01DL",
+                "md5": "71bf6afea9390dd92500a673c55a89c3",
+                "sha1": "d69e0db6c12676d75f67a45fd0cab38765dd3040",
+                "sha256": "03415e58e8b195b6882b16fd774e5f2abd7021e8feb7662316b828fcc82c60f0",
+                "registered": 1430426824,
+                "dob": 1416474976,
+                "phone": "(58) 1263-2179",
+                "cell": "(76) 2431-7917",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/50.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "lisuarte",
+                    "last": "dias"
+                },
+                "location": {
+                    "street": "2352 rua santos dumont",
+                    "city": "crato",
+                    "state": "goiás",
+                    "zip": 49431
+                },
+                "email": "lisuarte.dias@example.com",
+                "username": "smallostrich611",
+                "password": "jeep",
+                "salt": "YCcIb2y0",
+                "md5": "6475c3012b15efe610c0ce1be991e049",
+                "sha1": "2e7f1a708b033bca699315f730a95fc06c0a3c19",
+                "sha256": "877167f33246e9e46b7f9370f6fd7ed75d9b2bd73da38fca1991cce69fd13b09",
+                "registered": 1275049670,
+                "dob": 588737966,
+                "phone": "(17) 7304-3581",
+                "cell": "(61) 9172-8155",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/65.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "vérter",
+                    "last": "da cruz"
+                },
+                "location": {
+                    "street": "6981 rua vinte e quatro de outubro",
+                    "city": "blumenau",
+                    "state": "paraná",
+                    "zip": 42067
+                },
+                "email": "vérter.da cruz@example.com",
+                "username": "heavymeercat936",
+                "password": "brandy",
+                "salt": "9sfdpazC",
+                "md5": "cdf482e16787c18da91666b093fe0c73",
+                "sha1": "d921f30c4e0eae8983df93acfb4a9cd875b9ed86",
+                "sha256": "b88fc512d11b5f6c2bd558d24802c4bf946631b904db8670500a258c6c6b734e",
+                "registered": 1076951022,
+                "dob": 1295974480,
+                "phone": "(80) 9330-1668",
+                "cell": "(50) 5579-6467",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/58.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/58.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "aimê",
+                    "last": "da conceição"
+                },
+                "location": {
+                    "street": "6731 rua são pedro",
+                    "city": "várzea paulista",
+                    "state": "bahia",
+                    "zip": 76106
+                },
+                "email": "aimê.da conceição@example.com",
+                "username": "heavyostrich939",
+                "password": "orgy",
+                "salt": "MoChjj1E",
+                "md5": "84c916072506a150c1778bae6605219b",
+                "sha1": "b71402f71a19531ca8a30e215ccdbcccc0b2d7a5",
+                "sha256": "86547ddaee84e7c2d91f185a9bb636c755b6450179141b3f3c30d6461dbf6d3d",
+                "registered": 1271251807,
+                "dob": 630310621,
+                "phone": "(10) 3001-4060",
+                "cell": "(11) 6261-7225",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/79.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "edvaldo",
+                    "last": "da conceição"
+                },
+                "location": {
+                    "street": "4405 rua espirito santo",
+                    "city": "são lourenço da mata",
+                    "state": "alagoas",
+                    "zip": 71729
+                },
+                "email": "edvaldo.da conceição@example.com",
+                "username": "orangepanda672",
+                "password": "cafc91",
+                "salt": "3GVBBE2p",
+                "md5": "4372bdbb2bdf20371ae203fc7e2f8775",
+                "sha1": "75ffa5860e37767fc5766620c36a9439e55e76ba",
+                "sha256": "d1669be2b7e10524624ac9117e88128beda8ff2ed176513bfd4fe4dce76af76f",
+                "registered": 1204908976,
+                "dob": 972364101,
+                "phone": "(71) 6152-6060",
+                "cell": "(59) 1226-4407",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/70.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "lisandra",
+                    "last": "da mata"
+                },
+                "location": {
+                    "street": "2333 rua quatro",
+                    "city": "são paulo",
+                    "state": "rio grande do sul",
+                    "zip": 35560
+                },
+                "email": "lisandra.da mata@example.com",
+                "username": "smalldog203",
+                "password": "poopy",
+                "salt": "2JAD5wKb",
+                "md5": "d3dba55903618655e47dbcf0b39d199b",
+                "sha1": "00a5ceb9b8e24fb330d9a828d58e4e001f346c9c",
+                "sha256": "151b102e17b11aaa6e503b5a405739104709b167be7e0d7def042c76b66b1578",
+                "registered": 1021140244,
+                "dob": 552582679,
+                "phone": "(26) 9325-7756",
+                "cell": "(12) 1034-8565",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/80.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/80.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "bendavid",
+                    "last": "viana"
+                },
+                "location": {
+                    "street": "2015 rua treze de maio",
+                    "city": "ferraz de vasconcelos",
+                    "state": "pernambuco",
+                    "zip": 21470
+                },
+                "email": "bendavid.viana@example.com",
+                "username": "greenlion643",
+                "password": "tyvugq",
+                "salt": "TG7vII7g",
+                "md5": "74b7ce31470cda6af7503ddcaaaf98f8",
+                "sha1": "dc141da90fe2c9bcbdcefd7b02d2cbe396054005",
+                "sha256": "f9599998ff4b4c6ccc4994013b54ed53579870262f3365a9b335b50fd75052c5",
+                "registered": 1147531653,
+                "dob": 846747201,
+                "phone": "(18) 2172-1122",
+                "cell": "(97) 4891-1136",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/45.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "africano",
+                    "last": "da cruz"
+                },
+                "location": {
+                    "street": "6754 rua tiradentes",
+                    "city": "mogi guaçu",
+                    "state": "rio de janeiro",
+                    "zip": 72088
+                },
+                "email": "africano.da cruz@example.com",
+                "username": "orangeladybug895",
+                "password": "catalina",
+                "salt": "JE3U871U",
+                "md5": "3fe3513f42aab926106ca9d6f380e78b",
+                "sha1": "5f07232399ec2a5246a70b7ff26afd9f437b66e6",
+                "sha256": "909214697204f0d3100ca2094ab5a09d17815405fe8479671d1f7e669a4d334e",
+                "registered": 1043973162,
+                "dob": 22206933,
+                "phone": "(02) 2659-6392",
+                "cell": "(90) 7390-9138",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/13.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "hipólito",
+                    "last": "cavalcanti"
+                },
+                "location": {
+                    "street": "2543 rua quatro",
+                    "city": "itapipoca",
+                    "state": "amapá",
+                    "zip": 81646
+                },
+                "email": "hipólito.cavalcanti@example.com",
+                "username": "silvertiger373",
+                "password": "pajero",
+                "salt": "QOy2eZuo",
+                "md5": "51f11e70a5bcfd9b541f304c78a9d414",
+                "sha1": "976bfb3aaf759ee616bc0f247ce1981c3c82f06d",
+                "sha256": "00c927bba63ed0faae8c20861354f0a4cf0caf489d36144358a67a853f2d7443",
+                "registered": 923124804,
+                "dob": 484042995,
+                "phone": "(02) 7784-9481",
+                "cell": "(68) 0434-0127",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/95.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "rose",
+                    "last": "moreira"
+                },
+                "location": {
+                    "street": "4109 rua dezesseis de maio",
+                    "city": "blumenau",
+                    "state": "pará",
+                    "zip": 34585
+                },
+                "email": "rose.moreira@example.com",
+                "username": "beautifulmeercat820",
+                "password": "deeper",
+                "salt": "rAHhEGYp",
+                "md5": "9bce3fe6d217529d655f588718df29d8",
+                "sha1": "57c918aee07c1c2fce7ca70d082e2cf0301fbc64",
+                "sha256": "9f9388777697dca5fd65429a69ee9954a94b30ddd0cf73b4c45c59c1607a89c1",
+                "registered": 1003384884,
+                "dob": 249191217,
+                "phone": "(52) 8069-3583",
+                "cell": "(91) 7067-4352",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/17.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/17.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "miss",
+                    "first": "paola",
+                    "last": "da costa"
+                },
+                "location": {
+                    "street": "4513 rua santos dumont",
+                    "city": "itapetininga",
+                    "state": "goiás",
+                    "zip": 11275
+                },
+                "email": "paola.da costa@example.com",
+                "username": "orangeladybug807",
+                "password": "007007",
+                "salt": "cdOj9Jf6",
+                "md5": "04ea120aaaf1ae20e819ed649a584797",
+                "sha1": "09e22a4c0e70d359ae984bc139f3e1bb6534712f",
+                "sha256": "4c39fcdc8a9f9fa3d6b8c7ed38981fb4c116a69a7dad0a7a0df216ee865f04c0",
+                "registered": 1223239834,
+                "dob": 707918830,
+                "phone": "(66) 6399-2296",
+                "cell": "(58) 8813-8291",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/25.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/25.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/25.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "miss",
+                    "first": "giulia",
+                    "last": "lopes"
+                },
+                "location": {
+                    "street": "5705 rua paraíba",
+                    "city": "americana",
+                    "state": "bahia",
+                    "zip": 60979
+                },
+                "email": "giulia.lopes@example.com",
+                "username": "greenelephant576",
+                "password": "faster",
+                "salt": "3lSe7nqP",
+                "md5": "03f1c807f56cc73d925170e5e06fe114",
+                "sha1": "a1161c4457922a1ebdb74dd5055d580431c53f93",
+                "sha256": "573ea329a336a34b29450b7fdae8112d198cadf849004e131843849bc3f2ad80",
+                "registered": 1063707693,
+                "dob": 985955526,
+                "phone": "(55) 6116-5945",
+                "cell": "(36) 5560-5132",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/23.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/23.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/23.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "miss",
+                    "first": "helga",
+                    "last": "vieira"
+                },
+                "location": {
+                    "street": "8753 rua são luiz",
+                    "city": "caruaru",
+                    "state": "maranhão",
+                    "zip": 41133
+                },
+                "email": "helga.vieira@example.com",
+                "username": "brownostrich142",
+                "password": "212121",
+                "salt": "usWF25ZC",
+                "md5": "32dac66437e3cc40ae798b4fe89f338a",
+                "sha1": "5c7554f1717d6d169fb8defa0cc5e961e9013c7c",
+                "sha256": "7fe623309737f202f0674f52c16d80377f9fc0692e762fd33b0833add1cdff78",
+                "registered": 1236047506,
+                "dob": 706829327,
+                "phone": "(09) 8614-1644",
+                "cell": "(80) 3599-8724",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/56.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mrs",
+                    "first": "anésia",
+                    "last": "carvalho"
+                },
+                "location": {
+                    "street": "3411 rua amazonas",
+                    "city": "eunápolis",
+                    "state": "santa catarina",
+                    "zip": 60789
+                },
+                "email": "anésia.carvalho@example.com",
+                "username": "whitegorilla930",
+                "password": "duan",
+                "salt": "pRRBwidW",
+                "md5": "7310e730d49f045ab4ab5101035a27e7",
+                "sha1": "812b2be1a1c990adcc9eab4c16754fac767122fa",
+                "sha256": "7cad60a36a496e93f6972943afccb5f1a106fa90e437ea053eeb05a660a1a45f",
+                "registered": 1326759970,
+                "dob": 640646843,
+                "phone": "(64) 1870-7703",
+                "cell": "(05) 9719-6547",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/36.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "fidélio",
+                    "last": "nogueira"
+                },
+                "location": {
+                    "street": "2914 avenida da democracia",
+                    "city": "arapongas",
+                    "state": "rio grande do sul",
+                    "zip": 86277
+                },
+                "email": "fidélio.nogueira@example.com",
+                "username": "redkoala459",
+                "password": "champion",
+                "salt": "sT9Mp2qn",
+                "md5": "4e6fb4777bf477065b500f19f6f38277",
+                "sha1": "f1a250214f710e240654a92d7b0e4349c30d9a60",
+                "sha256": "e2a269573108dbf19961bc40be8fa0c8e3050173878c4f79f66f73cea428672a",
+                "registered": 1223911336,
+                "dob": 1012103667,
+                "phone": "(41) 5402-3040",
+                "cell": "(62) 1921-6746",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/87.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "luiziane",
+                    "last": "fogaça"
+                },
+                "location": {
+                    "street": "6876 rua quinze de novembro",
+                    "city": "caruaru",
+                    "state": "paraná",
+                    "zip": 35852
+                },
+                "email": "luiziane.fogaça@example.com",
+                "username": "beautifulsnake248",
+                "password": "bootie",
+                "salt": "u2eLkdFA",
+                "md5": "eafdbaa3b6d0cd57e7d6448b406cdcdb",
+                "sha1": "2e56b23baf4a0ee4eb8d85b516e9fffe6be586d1",
+                "sha256": "873528d3b57e4fe2de82ec8be0e052c32d61ee79fd62968b0ef41b325922605a",
+                "registered": 1274191053,
+                "dob": 1092555126,
+                "phone": "(41) 5595-9121",
+                "cell": "(83) 4955-2467",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/71.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/71.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "miss",
+                    "first": "miriam",
+                    "last": "alves"
+                },
+                "location": {
+                    "street": "6297 rua belo horizonte",
+                    "city": "jundiaí",
+                    "state": "rio grande do sul",
+                    "zip": 82937
+                },
+                "email": "miriam.alves@example.com",
+                "username": "heavykoala957",
+                "password": "0815",
+                "salt": "UOKvqckM",
+                "md5": "fe03b438c8ac56d403b2f9ce72134d6b",
+                "sha1": "8563171891843d988dccce029cb584188fe35eff",
+                "sha256": "d13c414ea0b53af1e65dfaad814c5b425125bf01a8a54b8759d3c74f326e1623",
+                "registered": 1043739713,
+                "dob": 1150720386,
+                "phone": "(97) 4264-8031",
+                "cell": "(52) 0469-7944",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/13.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "ruby",
+                    "last": "ferreira"
+                },
+                "location": {
+                    "street": "5877 rua paraíba",
+                    "city": "rio verde",
+                    "state": "rio de janeiro",
+                    "zip": 56217
+                },
+                "email": "ruby.ferreira@example.com",
+                "username": "browncat620",
+                "password": "rugger",
+                "salt": "81ddxnyA",
+                "md5": "6e862bc580b51cf407238ec283afac16",
+                "sha1": "a4a38885f55eb1a5ecf7cfa227ea0d7448ce61e5",
+                "sha256": "ad68c96d38f292c39edb378b0b3eb4e7a487c572999dddf49be0964253a8acb6",
+                "registered": 1053396027,
+                "dob": 629295515,
+                "phone": "(06) 9426-2551",
+                "cell": "(60) 6545-9829",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/22.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+                }
+            }
+        }
+    ],
+    "nationality": "BR",
+    "seed": "36b2ab59b0d1f46601",
+    "version": "0.8"
+}
